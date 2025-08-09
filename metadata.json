@@ -1,0 +1,5 @@
+{
+  "name": "Slowed & Reverb Audio Tool",
+  "description": "An application to upload an audio file, apply slowed and reverb effects in real-time, and download the resulting track.",
+  "requestFramePermissions": []
+}
